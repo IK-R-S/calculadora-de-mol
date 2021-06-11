@@ -1,8 +1,8 @@
 # Desenvolvido por K.r.s
 # github: https://github.com/IK-R-S
 
-''' Esse código foi desenvolvido com o intuito educacional
-    é um projeto open source 100% livre para você utilizar,
+''' Esse código foi desenvolvido com o intuito educacional.
+    É um projeto open source 100% livre para você utilizar,
     desenvolver melhorias e se inspirar para seus proejetos.
 
     *Copiar o código dos outros é feio, utilize mas ajude a melhorar
