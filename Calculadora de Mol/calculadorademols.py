@@ -3,7 +3,7 @@
 
 ''' Esse código foi desenvolvido com o intuito educacional.
     É um projeto open source 100% livre para você utilizar,
-    desenvolver melhorias e se inspirar para seus proejetos.
+    desenvolver melhorias e se inspirar para seus projetos.
 
     *Copiar o código dos outros é feio, utilize mas ajude a melhorar
      o código base que aqui se encontra. Obrigado.
